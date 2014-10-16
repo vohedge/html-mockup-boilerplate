@@ -1,0 +1,11 @@
+// Core variables and mixins
+@import "variables";
+@import "bootstrap/mixins";
+// Reset and dependencies
+@import "bootstrap/normalize";
+@import "font-awesome";
+//...
+body {
+  background: green;
+}
+

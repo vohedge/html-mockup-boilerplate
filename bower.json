@@ -1,0 +1,19 @@
+{
+  "name": "html-mockup-boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Noah Kobayashi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0+2",
+    "fontawesome": "~4.2.0"
+  }
+}
